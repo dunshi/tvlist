@@ -43,8 +43,7 @@
 //{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
 //]}
 {"group":"游戏直播","channels":[
-{"name":"LOL-世界赛","urls":["http://epg.112114.xyz/huya/660000"]},
-{"name":"HY-英雄联盟","urls":["http://epg.112114.xyz/huya/660001"]},
+{"name":"HY-世界赛","urls":["http://epg.112114.xyz/huya/660000"]},
 {"name":"HY-王者荣耀","urls":["http://epg.112114.xyz/huya/660002","http://epg.112114.xyz/huya/20577824","http://epg.112114.xyz/huya/11718758","http://epg.112114.xyz/huya/330435"]},
 {"name":"HY-王者-德华","urls":["http://epg.112114.xyz/huya/243547"]},
 {"name":"HY-王者-夫赖","urls":["http://epg.112114.xyz/huya/99724"]},
